@@ -1,4 +1,6 @@
 ## Adafruit 24-Channel 12-bit PWM LED Driver - SPI Interface TLC5947 PCB
+<a href="http://www.adafruit.com/products/1429"><img src="assets/image.jpg?raw=true" width="500px"><br/>
+Click here to purchase one from the Adafruit shop</a>
 
 For all of you out there who want to control 24 channels of PWM, we salute you! We also would like you to check out this breakout board for the TLC5947 PWM driver chip. This chip can control 24 separate channels of 12-bit PWM output. Designed (and ideal) for LED control, this board is not good for driving servos. If you need to drive servos, we have a controller for that over here.
 
